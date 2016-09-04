@@ -1,0 +1,67 @@
+%!PS-Adobe-3.0
+%%Creator: Adobe Illustrator(TM) 3.2
+%%Title: Exported data from VCarve Pro
+%%CreationDate: domingo, junio 21, 2015
+%%BoundingBox: -5.66593995 -56.25435715 288.55752027 130.37206977
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_Illustrator_AI3 1.0 1
+%0X1.081F00P-1003I3_ColorUsage: Color
+%0X1.081D40P-1003I3_DocumentPreview: None
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_Illustrator_AI3 /initialize get exec
+%%EndSetup
+0 A
+0 R
+0 0 0 1 K
+0 J 0 j 1 w 4 M []0 d
+78.146388 124.702778 m
+78.146388 127.833842 75.608160 130.372070 72.477097 130.372070 c
+0.000000 130.372070 L
+-3.129212 130.372070 -5.665940 127.835342 -5.665940 124.706130 c
+-5.665940 82.179742 L
+-5.665940 79.050530 -3.129212 76.513802 0.000000 76.513802 c
+11.864841 76.513802 L
+12.647607 76.513802 13.282164 77.148359 13.282164 77.931125 c
+13.282164 103.442936 L
+13.282164 104.225702 13.916721 104.860259 14.699487 104.860259 c
+26.048176 104.860259 L
+26.860082 104.860259 27.506048 104.179553 27.463556 103.368759 c
+28.356371 78.005302 L
+28.313879 77.194508 28.959845 76.513802 29.771751 76.513802 c
+29.771751 -49.647453 L
+29.771751 -52.778516 32.309980 -55.316744 35.441043 -55.316744 c
+65.196850 -55.316744 L
+94.989644 -58.147519 125.043117 -54.559625 153.332204 -44.794822 c
+187.259507 -39.106614 221.947743 -39.762968 255.635578 -46.730558 c
+265.748890 -51.796463 277.926381 -50.204389 286.397413 -42.708785 c
+288.265788 -40.984913 288.999889 -38.353414 288.293682 -35.911318 c
+282.734677 -28.816525 279.826610 -20.003789 280.071307 -10.993864 c
+277.894025 -7.006207 272.144307 -7.074484 270.062330 -11.112718 c
+263.346474 -27.139866 L
+262.052866 -29.648969 259.109576 -30.823055 256.444165 -29.893215 c
+201.763949 -8.849668 141.553951 -7.021426 85.697699 -24.708598 c
+83.359770 -25.864520 80.708802 -26.226982 78.146388 -25.741073 c
+78.146388 124.702778 L
+S
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF

@@ -1,0 +1,56 @@
+%!PS-Adobe-3.0
+%%Creator: Adobe Illustrator(TM) 3.2
+%%Title: Exported data from VCarve Pro
+%%CreationDate: viernes, agosto 21, 2015
+%%BoundingBox: 1963.19895454 2489.13931759 2048.89533838 2545.83577890
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_Illustrator_AI3 1.0 1
+%0X1.081F00P-1003I3_ColorUsage: Color
+%0X1.081D40P-1003I3_DocumentPreview: None
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_Illustrator_AI3 /initialize get exec
+%%EndSetup
+0 A
+0 R
+0 0 0 1 K
+0 J 0 j 1 w 4 M []0 d
+1975.414580 2521.739734 m
+1973.066283 2521.739734 1971.162611 2519.836063 1971.162611 2517.487765 c
+1971.162611 2515.139468 1973.066283 2513.235797 1975.414580 2513.235797 c
+1977.762877 2513.235797 1979.666548 2515.139468 1979.666548 2517.487765 c
+1979.666548 2519.836063 1977.762877 2521.739734 1975.414580 2521.739734 c
+S
+1968.019032 2544.796684 m
+1988.967730 2540.571138 2010.597391 2540.923090 2031.427599 2545.835779 c
+2031.427599 2545.835779 L
+2055.633123 2534.074311 2054.405607 2499.183585 2029.463768 2489.139318 c
+2009.502977 2493.744650 1988.812950 2494.135424 1968.714523 2490.295749 c
+1968.315981 2490.166551 1967.891269 2490.099613 1967.450923 2490.099613 c
+1965.102626 2490.099613 1963.198955 2492.003284 1963.198955 2494.351581 c
+1963.198955 2494.400406 1963.199777 2494.449037 1963.205486 2494.497464 c
+1963.205492 2540.740728 L
+1963.278538 2543.022804 1965.152472 2544.846934 1967.450923 2544.846934 c
+1967.644184 2544.846934 1967.834434 2544.834041 1968.019032 2544.796684 c
+S
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF

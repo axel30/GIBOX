@@ -1,0 +1,54 @@
+%!PS-Adobe-3.0
+%%Creator: Adobe Illustrator(TM) 3.2
+%%Title: Exported data from VCarve Pro
+%%CreationDate: domingo, junio 21, 2015
+%%BoundingBox: 1070.31982461 855.94498763 1197.87887973 955.15758605
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_Illustrator_AI3 1.0 1
+%0X1.081F00P-1003I3_ColorUsage: Color
+%0X1.081D40P-1003I3_DocumentPreview: None
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_Illustrator_AI3 /initialize get exec
+%%EndSetup
+0 A
+0 R
+0 0 0 1 K
+0 J 0 j 1 w 4 M []0 d
+1070.319825 940.984358 m
+1070.319825 870.118216 L
+1070.319825 862.290558 1076.665395 855.944988 1084.493053 855.944988 c
+1183.705651 855.944988 L
+1191.533309 855.944988 1197.878880 862.290558 1197.878880 870.118216 c
+1197.878880 940.984358 L
+1197.878880 948.812016 1191.533309 955.157586 1183.705651 955.157586 c
+1084.493053 955.157586 L
+1076.665395 955.157586 1070.319825 948.812016 1070.319825 940.984358 c
+S
+1084.493053 944.761668 m
+1082.770968 944.761668 1081.374943 943.365643 1081.374943 941.643558 c
+1081.374943 939.921473 1082.770968 938.525448 1084.493053 938.525448 c
+1086.215138 938.525448 1087.611163 939.921473 1087.611163 941.643558 c
+1087.611163 943.365643 1086.215138 944.761668 1084.493053 944.761668 c
+S
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
